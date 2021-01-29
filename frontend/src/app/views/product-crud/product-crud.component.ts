@@ -11,5 +11,4 @@ export class ProductCrudComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }
